@@ -4,7 +4,7 @@ module.exports = {
     title: "tompeirs",
   },
   plugins: [
-    "gatsby-plugin-sass",
+    `gatsby-plugin-sass`,
     "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
@@ -33,5 +33,6 @@ module.exports = {
       },
       __key: "pages",
     },
+    `gatsby-plugin-postcss`,
   ],
 };
