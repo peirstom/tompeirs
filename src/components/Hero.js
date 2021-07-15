@@ -21,7 +21,7 @@ const Hero = (props) => {
             </div>
           </div>
           <div className="w-full lg:w-5/6 lg:max-w-lg md:w-1/2">
-            <StaticImage className="object-cover object-center rounded-lg " alt="hero" src="https://dummyimage.com/720x600/F3F4F7/8693ac"></StaticImage>
+            <StaticImage className="object-cover object-center rounded-lg " alt="Tom Peirs with a coffee cup" src="../images/tom.jpg"></StaticImage>
           </div>
         </div>
       </section>
