@@ -3,8 +3,8 @@ backend:
   repo: peirstom/tompeirs
   branch: main
 
-media_folder: static/assets
-public_folder: /assets
+media_folder: content/assets
+public_folder: /content
 
 collections:
   - name: blog
