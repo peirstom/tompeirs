@@ -53,3 +53,9 @@ This project is deployed through [Netlify](https://www.netlify.com/):
 
 ## 💻 Access the deployment here
 [Live website](https://heuristic-lewin-7534d7.netlify.app/)
+
+## 🕥 Coming Soon
+1. Importing data with a headless CMS: Netlify CMS might be a good start
+2. Styling, we could use a framework like Material-UI for a change.
+
+
