@@ -1,11 +1,11 @@
 import React from 'react';
 import Footer from './Footer';
-import Header from './Header';
+import NavBar from './Navbar';
 
 const Layout = ({ children }) => {
   return (
     <>
-      <Header />
+      <NavBar />
       <main className="text-gray-900 container mx-auto">{children}</main>
       <Footer />
     </>
